@@ -1,0 +1,8 @@
+name: dart-seed
+version: 0.0.1
+dependencies:
+  angular:
+    git: https://github.com/angular/angular.dart.git
+  browser: any
+  js: any
+  unittest: any
