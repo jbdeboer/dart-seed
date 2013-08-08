@@ -1,4 +1,4 @@
-name: dart-seed
+name: dart_seed
 version: 0.0.1
 dependencies:
   angular:
